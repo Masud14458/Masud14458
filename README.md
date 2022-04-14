@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Masud14458
+- 👋 Hi, I’m MD. Masud Rid1 Rin2.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning c++.
